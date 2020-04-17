@@ -1,7 +1,7 @@
 ---
 title: "Privacy Policy"
-date: 2019-11-05T08:37:12+00:00
-draft: true
+date: 2020-04-17T11:59:29+01:00
+draft: false
 ---
 
 We are Cydea, a limited company registered in England & Wales. Our registered address is Cydea Ltd, 71-75 Shelton Street, Covent Garden, London, England, WC2H 9JQ.
@@ -18,7 +18,7 @@ If necessary we will update this document.
 
 The current version of our privacy notice will be available on our website: https://cydea.com/privacy/. You can see previous versions and changes on [GitHub](https://github.com/cydea/privacy-policy/).
 
-This notice was last updated on **5th November 2019**.
+This notice was last updated on **17th April 2020**.
 
 
 ## Website visitors
@@ -89,7 +89,7 @@ We use the information that you have given us in order to create and manage clie
 We may share testimonial information with other potential and existing clients.
 
 ### How we store your information
-Your information is securely stored in our Customer Relationship Management (CRM) system that is hosted within the European Union.
+Your information is securely stored in our Customer Relationship Management (CRM) system that is hosted within the European Union and in United States with a Privacy Shield certified provider. It is accessed from, and therefore copies may temporarilly stored within, the United Kingdom.
 
 We keep potential client data for 24 months from last contact or activity. We keep existing client data for 36 months from last contact or activity.
 
@@ -166,7 +166,7 @@ You are not required to pay any charge for exercising your rights. If you make a
 
 ### If you still have concerns
 
-You can also [make a complaint](https://ico.org.uk/make-a-complaint/) to the ICO if you are unhappy with how we have used your data.
+We are registered with the UK Information Commissioner's Office (ICO). You can [make a complaint](https://ico.org.uk/make-a-complaint/) to the ICO if you are unhappy with how we have used your data.
 
 Their address is: Information Commissioner’s Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF.
 
