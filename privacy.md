@@ -1,6 +1,6 @@
 ---
 title: "Privacy Policy"
-date: 2020-04-17T11:59:29+01:00
+date: 2020-07-30T14:47:12+01:00
 draft: false
 ---
 
@@ -18,7 +18,7 @@ If necessary we will update this document.
 
 The current version of our privacy notice will be available on our website: https://cydea.com/privacy/. You can see previous versions and changes on [GitHub](https://github.com/cydea/privacy-policy/).
 
-This notice was last updated on **17th April 2020**.
+This notice was last reviewed and updated on **30th July 2020**.
 
 
 ## Website visitors
@@ -89,7 +89,7 @@ We use the information that you have given us in order to create and manage clie
 We may share testimonial information with other potential and existing clients.
 
 ### How we store your information
-Your information is securely stored in our Customer Relationship Management (CRM) system that is hosted within the European Union and in United States with a Privacy Shield certified provider. It is accessed from, and therefore copies may temporarilly stored within, the United Kingdom.
+Your information is securely stored in our Customer Relationship Management (CRM) system that is hosted within the European Union. It is accessed from, and therefore copies may temporarily be stored on devices within, the United Kingdom.
 
 We keep potential client data for 24 months from last contact or activity. We keep existing client data for 36 months from last contact or activity.
 
@@ -133,6 +133,46 @@ We use the information that you have given us in order to assess suitability for
 Your information is securely stored on our email and file server. Only staff involved in the recruitment process have access to job applicant data.
 
 Job applicant data are deleted when a candidate leaves the recruitment process, is offered a job, or their application is unsuccessful. If a job applicant has requested we notify them of other roles they may be interested in with will keep this information for 18 months. We will then dispose your information by deleting it from our file server.
+
+
+## Virtual SMEs
+
+### What type of information we have
+We currently collect and process the following information for Virtual Subject Matter Experts (SMEs) that support delivery of our services from time-to-time as associates of Cydea:
+
+- Full name
+- Email address
+- Phone number
+- CV and supporting information
+- LinkedIn Profile URL
+- Typical day rate
+- Ideal roles
+- Notes from interviews
+- Your consent to use your likeness in proposals
+- Self-declaration of your right to work within the UK
+
+We don’t collect any special category data or ask for any background checks as part of the application process.
+
+### How we get the information and why we have it
+Most of the personal information we process is provided to us directly by you for one of the following reasons:
+
+- You are interested in working for Cydea
+
+We also receive personal information indirectly, from the following sources in the following scenarios:
+
+- Referrals
+- Social media
+
+Under the General Data Protection Regulation (GDPR), the lawful bases we rely on for processing this information are:
+(a) Your consent. You are able to remove your consent at any time (see below)
+
+### What we do with the information we have
+We use the information that you have given us in order to assess suitability for a role and communicate with candidates for roles that we are not able to resource directly.
+
+### How we store your information
+Your information is securely stored in a CRM system and file server. The CRM system is hosted in the United States and we have adopted the European Union 'Standard Contractual Clauses' to protect your data. Only staff involved in the resourcing process have access to Virtual SME data.
+
+Virtual SME data are deleted when a candidate indicates that they no longer wish to work with us. You ca do this by following the 'opt-out' links on any Virtual SME communications. If a Virtual SME candidate has requested we notify them of other roles they may be interested in with will keep this information for 18 months from our last point of contact. We will then dispose your information by deleting it from our CRM and file server.
 
 
 ## Data sharing
