@@ -4,7 +4,7 @@ date: 2020-07-30T14:47:12+01:00
 draft: false
 ---
 
-We are Cydea, a limited company registered in England & Wales. Our registered address is Cydea Ltd, 71-75 Shelton Street, Covent Garden, London, England, WC2H 9JQ.
+We are Cydea, a limited company registered in England & Wales. Our registered address is Cydea Ltd, 99 Park Drive, Milton Park, Abingdon, OX14 4RY.
 
 We use third party services to develop, manage and deliver our services, publish work, keep in touch with people and understand how we can do these things better.
 
@@ -18,7 +18,7 @@ If necessary we will update this document.
 
 The current version of our privacy notice will be available on our website: https://cydea.com/privacy/. You can see previous versions and changes on [GitHub](https://github.com/cydea/privacy-policy/).
 
-This notice was last reviewed and updated on **30th July 2020**.
+This notice was last reviewed and updated on **21st October 2020**.
 
 
 ## Website visitors
