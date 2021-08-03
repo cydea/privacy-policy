@@ -1,6 +1,6 @@
 ---
 title: "Privacy Policy"
-date: 2021-06-21T09:24:12+01:00
+date: 2021-08-03T17:56:12+01:00
 draft: false
 ---
 
@@ -18,7 +18,7 @@ If necessary we will update this document.
 
 The current version of our privacy notice will be available on our website: https://cydea.com/privacy/. You can see previous versions and changes on [GitHub](https://github.com/cydea/privacy-policy/).
 
-This notice was last reviewed and updated on **21st June 2021**.
+This notice was last reviewed and updated on **3rd August 2021**.
 
 
 ## Website visitors
@@ -48,10 +48,11 @@ Under the General Data Protection Regulation (GDPR), the lawful bases we rely on
 We use the information that you have given us in order to understand how visitors are using our websites and improve their experience.
 
 ### How we store your information
-We use Google Analytics to store this information and they are the data processor of this information. You can view how they [safeguard your data and privacy policy](https://support.google.com/analytics/answer/6004245), as well as [details of how you can opt-out of this collection](https://tools.google.com/dlpage/gaoptout).
+We primarilly use Google Analytics to store this information and they are the data processor of this information. You can view how they [safeguard your data and privacy policy](https://support.google.com/analytics/answer/6004245), as well as [details of how you can opt-out of this collection](https://tools.google.com/dlpage/gaoptout).
 
 We keep website visitor information for 26 months. We will then dispose of your information automatically on a monthly basis.
 
+We may also use services from LinkedIn to understand aggregate information about the sectors, typical job titles, geographic locations and other metadata about visitors to our website and the content they have interacted with. This is only available [above a threshold of 300 visitors](https://www.linkedin.com/help/lms/answer/a418972) and they also provide methods to [opt-out and manage your LinkedIn cookie preferences](https://www.linkedin.com/help/linkedin/answer/125463).
 
 ## Potential and existing clients
 
