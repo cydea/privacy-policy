@@ -1,6 +1,6 @@
 ---
 title: "Privacy Policy"
-date: 2021-08-03T17:56:12+01:00
+date: 2023-03-04T08:00:00+01:00
 draft: false
 ---
 
@@ -18,7 +18,7 @@ If necessary we will update this document.
 
 The current version of our privacy notice will be available on our website: https://cydea.com/privacy/. You can see previous versions and changes on [GitHub](https://github.com/cydea/privacy-policy/).
 
-This notice was last reviewed and updated on **3rd August 2021**.
+This notice was last reviewed and updated on **4th April 2023**.
 
 
 ## Website visitors
@@ -90,7 +90,7 @@ We use the information that you have given us in order to create and manage clie
 We may share testimonial information with other potential and existing clients.
 
 ### How we store your information
-Your information is securely stored in our Customer Relationship Management (CRM) system that is hosted within the European Union. It is accessed from, and therefore copies may temporarily be stored on devices within, the United Kingdom.
+Your information is securely stored in our Customer Relationship Management (CRM) system that is hosted within the European Union. It is accessed from, and therefore copies may temporarily be stored on devices within, the United Kingdom (where we are based) or from those same devices in other countries where we are traveling to for short periods of time (e.g. to conferences).
 
 We keep potential client data for 24 months from last contact or activity. We keep existing client data for 36 months from last contact or activity.
 
