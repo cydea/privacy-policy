@@ -1,6 +1,6 @@
 ---
 title: "Privacy Policy"
-date: 2023-04-04T08:00:00+01:00
+date: 2023-07-10T18:00:00+01:00
 draft: false
 ---
 
@@ -18,7 +18,7 @@ If necessary we will update this document.
 
 The current version of our privacy notice will be available on our website: https://cydea.com/privacy/. You can see previous versions and changes on [GitHub](https://github.com/cydea/privacy-policy/).
 
-This notice was last reviewed and updated on **4th April 2023**.
+This notice was last reviewed and updated on **10th July 2023**.
 
 
 ## Website visitors
@@ -123,6 +123,7 @@ We also receive personal information indirectly, from the following sources in t
 
 - Staff referrals
 - Social media
+- Recruitment agencies (we only accept candidate profiles from agencies we have commercial relationships with)
 
 Under the General Data Protection Regulation (GDPR), the lawful bases we rely on for processing this information are:
 (a) Your consent. You are able to remove your consent at any time (see below)
@@ -131,9 +132,9 @@ Under the General Data Protection Regulation (GDPR), the lawful bases we rely on
 We use the information that you have given us in order to assess suitability for a role and communicate with job applicants.
 
 ### How we store your information
-Your information is securely stored on our email and file server. Only staff involved in the recruitment process have access to job applicant data.
+Your information is securely stored on our applicant tracking system, email, and file server. Only staff involved in the recruitment process have access to job applicant data.
 
-Job applicant data are deleted when a candidate leaves the recruitment process, is offered a job, or their application is unsuccessful. If a job applicant has requested we notify them of other roles they may be interested in with will keep this information for 18 months. We will then dispose your information by deleting it from our file server.
+Job applicant data are deletedwith 6 months when a candidate leaves the recruitment process, is offered a job, or their application is unsuccessful. If a job applicant has requested we notify them of other roles they may be interested in with will keep this information for 18 months. We will then dispose your information by deleting it from our file server.
 
 
 ## Virtual SMEs
