@@ -128,7 +128,7 @@ We use the information that you have given us in order to create and manage clie
 We may share testimonial information with other potential and existing clients.
 
 ### How we store your information
-Your information is securely stored in our Customer Relationship Management (CRM) system that is hosted within the European Union. It is accessed from, and therefore copies may temporarily be stored on devices within, the United Kingdom.
+Your information is securely stored in our Customer Relationship Management (CRM) system that is hosted within the European Union. It is accessed from, and therefore copies may temporarily be stored on devices within, the United Kingdom (where we are based) or from those same devices in other countries where we are traveling to for short periods of time (e.g. to conferences).
 
 To communicate with our potential and existing clients we may share name, email and organisation with a service provider within the United States (see below) for the purposes of managing our mailing list. You can opt-out of these communications and cease this processing by following the links at the bottom of each email, or by contacting us directly.
 
@@ -164,6 +164,7 @@ We also receive personal information indirectly, from the following sources in t
 
 - Staff referrals
 - Social media
+- Recruitment agencies (we only accept candidate profiles from agencies we have commercial relationships with)
 
 Under the General Data Protection Regulation (GDPR), the lawful bases we rely on for processing this information are:
 (a) Your consent. You are able to remove your consent at any time (see below)
