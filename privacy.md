@@ -1,6 +1,6 @@
 ---
 title: "Privacy Policy"
-date: 2023-07-10T18:00:00+01:00
+date: 2024-07-31T16:30:00+01:00
 draft: false
 ---
 
@@ -18,7 +18,7 @@ If necessary we will update this document.
 
 The current version of our privacy notice will be available on our website: https://cydea.com/privacy/. You can see previous versions and changes on [GitHub](https://github.com/cydea/privacy-policy/).
 
-This notice was last reviewed and updated on **10th July 2023**.
+This notice was last updated on **31st July 2024**.
 
 
 ## Website visitors
@@ -53,6 +53,44 @@ We primarilly use Google Analytics to store this information and they are the da
 We keep website visitor information for 26 months. We will then dispose of your information automatically on a monthly basis.
 
 We may also use services from LinkedIn to understand aggregate information about the sectors, typical job titles, geographic locations and other metadata about visitors to our website and the content they have interacted with. This is only available [above a threshold of 300 visitors](https://www.linkedin.com/help/lms/answer/a418972) and they also provide methods to [opt-out and manage your LinkedIn cookie preferences](https://www.linkedin.com/help/linkedin/answer/125463).
+
+
+## Cydea application users
+
+### What type of information we have
+We may collect and process information for users of our applications, such as our risk platform, including:
+
+- Account information (including name, email address, password or single sign-on data, organisation)
+- Website visitor information (see above)
+- Feedback on new features and bugs
+
+### How we get the information and why we have it
+Most of the personal information we process is provided to us directly by you for one of the following reasons:
+
+- You have signed up and are a user of our application
+- You have asked us to create an account on your behalf
+
+Under the General Data Protection Regulation (GDPR), the lawful bases we rely on for processing this information are:
+
+- Your consent. You are able to remove your consent at any time (see below)
+- We have a contractual obligation
+
+### What we do with the information we have
+We use the information that you have given us in order to secure your account, to provide you with the services of the application, to understand how users are using our apps and improve their experience, and to communicate with you about the application.
+
+### How we store your information
+We use a select number of trusted third party providers to help us develop and operate our applications. We only share information that is required for the service they are offering and enter into contractual agreements to keep any information we share with them as confidential, to be used only to the extent necessary to fulfil their contractual obligations and to follow our instructions with respect to such data.
+
+Your information is securely stored in our risk platform and authentication system that are both hosted within the United Kingdom. It is accessed from, and therefore copies may temporarily be stored on devices within, the United Kingdom (where we are based) or from those same devices in other countries where we are traveling to for short periods of time (e.g. to conferences). 
+
+Our authentication system is provided by Auth0 and you can find details of their [data protection practices on their website](https://auth0.com/docs/secure/data-privacy-and-compliance).
+
+Feedback data, which is provided voluntarilly, and a subset of account information (name, email, organisation) needed for our mailing list, is transfered to the United States (see below), and subject to [Appzi's policy](https://www.appzi.com/privacy/). 
+
+We provide product updates via a service called Beamer, where you may choose to (on an opt-in basis) provide them your email address so you can receive these directly to your inbox. Beamer tracks who and how many people have seen our updates through this service. [Beamer's privacy policy](https://www.getbeamer.com/privacy-policy/) covers their practices.
+
+We keep your data while your organisation receives these services from us, and a further period of 6 months after termination. If you request that we delete your information then we will anonymise your account in our application, such that other users in your organisation may still see when actions were undertaken in the platform.
+
 
 ## Potential and existing clients
 
@@ -92,6 +130,8 @@ We may share testimonial information with other potential and existing clients.
 ### How we store your information
 Your information is securely stored in our Customer Relationship Management (CRM) system that is hosted within the European Union. It is accessed from, and therefore copies may temporarily be stored on devices within, the United Kingdom (where we are based) or from those same devices in other countries where we are traveling to for short periods of time (e.g. to conferences).
 
+To communicate with our potential and existing clients we may share name, email and organisation with a service provider within the United States (see below) for the purposes of managing our mailing list. You can opt-out of these communications and cease this processing by following the links at the bottom of each email, or by contacting us directly.
+
 We keep potential client data for 24 months from last contact or activity. We keep existing client data for 36 months from last contact or activity.
 
 Where an existing client provides a testimonial this is stored in our CRM system and may be published on our website and in other promotional materials. We will keep this information for 60 months.
@@ -105,8 +145,9 @@ We will then dispose your information by deleting your records from our CRM syst
 We currently collect and process the following information for job applicants interested in joining our team:
 
 - Full name
-- Email address
+- Emailaddress
 - Phone number
+- Social media profiles
 - CV and supporting information
 - Covering letter
 - References
@@ -132,9 +173,9 @@ Under the General Data Protection Regulation (GDPR), the lawful bases we rely on
 We use the information that you have given us in order to assess suitability for a role and communicate with job applicants.
 
 ### How we store your information
-Your information is securely stored on our applicant tracking system, email, and file server. Only staff involved in the recruitment process have access to job applicant data.
+Your information is securely stored primarily in our applicant tracking system (ATS) and file server. Only staff involved in the recruitment process have access to job applicant data.
 
-Job applicant data are deletedwith 6 months when a candidate leaves the recruitment process, is offered a job, or their application is unsuccessful. If a job applicant has requested we notify them of other roles they may be interested in with will keep this information for 18 months. We will then dispose your information by deleting it from our file server.
+Job applicant data are deleted within 12 months of when a candidate leaves the recruitment process, is offered a job, or their application is unsuccessful. If a job applicant has requested we notify them of other roles they may be interested in with will keep this information for a further 12 months. We will then delete your records from our ATS and file server.
 
 
 ## Virtual SMEs
@@ -153,7 +194,7 @@ We currently collect and process the following information for Virtual Subject M
 - Your consent to use your likeness in proposals
 - Self-declaration of your right to work within the UK
 
-We don’t collect any special category data or ask for any background checks as part of the application process.
+We don’t collect any special category data or ask for any background checks upon registering interest, though these may be collected or required before being engaged on any client projects.
 
 ### How we get the information and why we have it
 Most of the personal information we process is provided to us directly by you for one of the following reasons:
@@ -171,10 +212,12 @@ Under the General Data Protection Regulation (GDPR), the lawful bases we rely on
 ### What we do with the information we have
 We use the information that you have given us in order to assess suitability for a role and communicate with candidates for roles that we are not able to resource directly.
 
-### How we store your information
-Your information is securely stored in a CRM system and file server. The CRM system is hosted in the United States and we have adopted the European Union 'Standard Contractual Clauses' to protect your data. Only staff involved in the resourcing process have access to Virtual SME data.
+With your consent we may also use your profile and likeness when communicating with clients and pitching for projects.
 
-Virtual SME data are deleted when a candidate indicates that they no longer wish to work with us. You ca do this by following the 'opt-out' links on any Virtual SME communications. If a Virtual SME candidate has requested we notify them of other roles they may be interested in with will keep this information for 18 months from our last point of contact. We will then dispose your information by deleting it from our CRM and file server.
+### How we store your information
+Your information is securely stored in a CRM system and file server. The CRM system is hosted in the United States (see below). Only staff involved in the resourcing process have access to Virtual SME data.
+
+Virtual SME data are deleted when a candidate indicates that they no longer wish to work with us. You ca do this by following the 'opt-out' links on any Virtual SME communications. Additionally, every 12 months we will communicate with associates and identify consent for us to continue holding their information. Data is disposed of by deleting it from our CRM and file server.
 
 
 ## Data sharing
@@ -183,6 +226,11 @@ We are Data Controller for your information. We may rely on third-parties to act
 
 We do not engage in other data sharing arrangements, though exemptions to data protection regulations may require us to share data about you, for example if requested by law enforcement.
 
+### Note on transfers to the United States
+
+We try to process and store data within the United Kingdom, or European Union, however for some specific activities we may transfer personal data to the United States (US). This transfer is based on the Standard Contractual Clauses (SCC) of the European Commission. 
+
+US companies are required to release personal data to security authorities without you as the data subject being able to take legal action against this. It is possible that US authorities (e.g. secret services) may process, evaluate and permanently store your data on US servers for monitoring purposes. Cydea has no influence over these processing activities.
 
 ## Data breaches
 
