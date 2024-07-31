@@ -1,6 +1,6 @@
 ---
 title: "Privacy Policy"
-date: 2022-08-09T10:23:13+01:00
+date: 2024-07-31T18:00:00+01:00
 draft: false
 ---
 
@@ -18,7 +18,7 @@ If necessary we will update this document.
 
 The current version of our privacy notice will be available on our website: https://cydea.com/privacy/. You can see previous versions and changes on [GitHub](https://github.com/cydea/privacy-policy/).
 
-This notice was last updated on **9th August 2022**.
+This notice was last updated on **31st July 2024**.
 
 
 ## Website visitors
@@ -58,28 +58,37 @@ We may also use services from LinkedIn to understand aggregate information about
 ## Cydea application users
 
 ### What type of information we have
-We may collect and process information for users of our applications including:
+We may collect and process information for users of our applications, such as our risk platform, including:
 
 - Account information (including name, email address, password or single sign-on data, organisation)
 - Website visitor information (see above)
 - Feedback on new features and bugs
 
 ### How we get the information and why we have it
-Most of the personal information we process is provided to us directly when registering for our applications.
+Most of the personal information we process is provided to us directly by you for one of the following reasons:
+
+- You have signed up and are a user of our application
+- You have asked us to create an account on your behalf
 
 Under the General Data Protection Regulation (GDPR), the lawful bases we rely on for processing this information are:
 
 - Your consent. You are able to remove your consent at any time (see below)
+- We have a contractual obligation
 
 ### What we do with the information we have
-We use the information that you have given us in order to secure your account, to the  understand how users are using our apps and improve their experience and to communicate with you about the application.
+We use the information that you have given us in order to secure your account, to provide you with the services of the application, to understand how users are using our apps and improve their experience, and to communicate with you about the application.
 
 ### How we store your information
 We use a select number of trusted third party providers to help us develop and operate our applications. We only share information that is required for the service they are offering and enter into contractual agreements to keep any information we share with them as confidential, to be used only to the extent necessary to fulfil their contractual obligations and to follow our instructions with respect to such data.
 
-Your account information is stored within the United Kingdom and we will retain this information until you close your account with us. Requests to close your account and delete your information should be made to our support email address.
+Your information is securely stored in our risk platform and authentication system that are both hosted within the United Kingdom. It is accessed from, and therefore copies may temporarily be stored on devices within, the United Kingdom (where we are based) or from those same devices in other countries where we are traveling to for short periods of time (e.g. to conferences). 
+
+Our authentication system is provided by Auth0 and you can find details of their [data protection practices on their website](https://auth0.com/docs/secure/data-privacy-and-compliance).
 
 Feedback data, which is provided voluntarilly, and a subset of account information (name, email, organisation) needed for our mailing list, is transfered to the United States (see below).
+
+We keep your data while your organisation receives these services from us, and a further period of 6 months after termination. If you request that we delete your information then we will anonymise your account in our application, such that other users in your organisation may still see when actions were undertaken in the platform.
+
 
 ## Potential and existing clients
 
@@ -127,6 +136,7 @@ Where an existing client provides a testimonial this is stored in our CRM system
 
 We will then dispose your information by deleting your records from our CRM system and removing any testimonial from our website and promotional materials.
 
+
 ## Job applicants
 
 ### What type of information we have
@@ -163,6 +173,7 @@ We use the information that you have given us in order to assess suitability for
 Your information is securely stored primarily in our applicant tracking system (ATS) and file server. Only staff involved in the recruitment process have access to job applicant data.
 
 Job applicant data are deleted within 12 months of when a candidate leaves the recruitment process, is offered a job, or their application is unsuccessful. If a job applicant has requested we notify them of other roles they may be interested in with will keep this information for a further 12 months. We will then delete your records from our ATS and file server.
+
 
 ## Virtual SMEs
 
