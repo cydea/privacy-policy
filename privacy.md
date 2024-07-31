@@ -85,7 +85,9 @@ Your information is securely stored in our risk platform and authentication syst
 
 Our authentication system is provided by Auth0 and you can find details of their [data protection practices on their website](https://auth0.com/docs/secure/data-privacy-and-compliance).
 
-Feedback data, which is provided voluntarilly, and a subset of account information (name, email, organisation) needed for our mailing list, is transfered to the United States (see below).
+Feedback data, which is provided voluntarilly, and a subset of account information (name, email, organisation) needed for our mailing list, is transfered to the United States (see below), and subject to [Appzi's policy](https://www.appzi.com/privacy/). 
+
+We provide product updates via a service called Beamer, where you may choose to (on an opt-in basis) provide them your email address so you can receive these directly to your inbox. Beamer tracks who and how many people have seen our updates through this service. [Beamer's privacy policy](https://www.getbeamer.com/privacy-policy/) covers their practices.
 
 We keep your data while your organisation receives these services from us, and a further period of 6 months after termination. If you request that we delete your information then we will anonymise your account in our application, such that other users in your organisation may still see when actions were undertaken in the platform.
 
