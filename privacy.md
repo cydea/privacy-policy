@@ -1,6 +1,6 @@
 ---
 title: "Privacy Policy"
-date: 2024-07-31T16:30:00+01:00
+date: 2024-09-18T08:00:00+01:00
 draft: false
 ---
 
@@ -18,7 +18,7 @@ If necessary we will update this document.
 
 The current version of our privacy notice will be available on our website: https://cydea.com/privacy/. You can see previous versions and changes on [GitHub](https://github.com/cydea/privacy-policy/).
 
-This notice was last updated on **31st July 2024**.
+This notice was last updated on **18th September 2025**.
 
 
 ## Website visitors
